@@ -1,5 +1,7 @@
 # Database Systems Reading List
 
+Source: https://github.com/jarulraj/databaseology
+
 These papers should help the reader better appreciate the design and implementation of modern database management systems (DBMSs). By design, this reading list only contains papers that were published atleast 10 years ago. If you would like to add a paper to this reading list, submit a [pull request](https://github.com/jarulraj/databaseology/blob/master/CONTRIBUTING.md).
 
 - [Case Studies](#case-studies)
