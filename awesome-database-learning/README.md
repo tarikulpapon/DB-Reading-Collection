@@ -1,5 +1,7 @@
 # Awesome Database Learning
 
+Source: https://github.com/pingcap/awesome-database-learning
+
 A list of learning materials to understand databases internals, including but not limited to:
 
 - papers
