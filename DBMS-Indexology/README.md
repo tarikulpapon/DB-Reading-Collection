@@ -1,7 +1,8 @@
 # DBMS Indexology
 
-Souce:https://github.com/yingjunwu/DBMS-Indexology
-This repository contains a list of papers that focus on the design and implementation of index structures in modern database management systems (DBMSs). To better exhibit the design trend in this research area, this reading list is intended to only contain high-quality papers published in top-tier conferences/journals. If you have any paper in mind that you think awesome and would fit in this list, please feel free to send a [pull request](https://github.com/yingjunwu/DBMS-Indexology/pulls).
+Souce: https://github.com/yingjunwu/DBMS-Indexology
+
+This repository contains a list of papers that focus on the design and implementation of index structures in modern database management systems (DBMSs). To better exhibit the design trend in this research area, this reading list is intended to only contain high-quality papers published in top-tier conferences/journals. 
 
 - - -
 
