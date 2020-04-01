@@ -1,5 +1,7 @@
 # Readings in Databases
 
+Source: https://github.com/rxin/db-readings
+
 A list of papers essential to understanding databases and building new data systems. The list is curated and maintained by Reynold Xin ([@rxin](http://twitter.com/rxin)). If you think a paper should be part of this list, please submit a pull request. It might take a while since I need to go over the paper.
 
 If you are reading this and taking the effort to understand these papers, we would love to talk to you about opportunities at [Databricks](https://databricks.com/company/careers).
